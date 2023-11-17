@@ -12,5 +12,5 @@ in th ethread lambda functions, i iterated through the low and high values and c
 also, printed the parallel execution time for eacg thread
 
 
-github repository link - 
+github repository link - https://github.com/ananya-dot/os-multithreader.git
 
